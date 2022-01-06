@@ -1,7 +1,5 @@
-# MultiplePattern
+# Home Security Simulator (HSS) 
 Trabalho Final da disciplica de Análise e Projeto de Sistemas Orientado a Objetos
-
-# Home Security Simulator (HSS)
 
 O sistema HSS possui sensores de detecção de fumaça e movimento. Estes sensores podem ser comercializados por diferentes empresas. 
 * Quando algum sensor é ativado, um SMS deve ser enviado para o usuário;
